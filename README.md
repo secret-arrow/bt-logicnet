@@ -23,6 +23,6 @@ Our goal is to develop an open-source AI model capable of complex mathematics an
 - 🌟 **Continuous Improvement**: Adding more math problem set and category.
 
 
-### Neurons Documentation
+### Neurons Documentation  
 - 📖 [Validator](docs/VALIDATOR.md)
 - 📖 [Miner](docs/MINER.md)
