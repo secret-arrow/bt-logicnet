@@ -1,6 +1,6 @@
 # <center>🧠 LogicNet - Subnet 🤖</center>
 
-## Introduction
+##  Introduction
 
 ###  Description
 Our  goal is to develop an open-source AI model capable of complex mathematics and detailed data analysis, enhanced by incentivized human feedback for continuous improvement.
