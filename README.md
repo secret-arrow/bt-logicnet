@@ -22,6 +22,7 @@ Our goal is to develop an open-source AI model capable of complex mathematics an
   - `time_score` is derived from the time taken to generate the result.
 - 🌟 **Continuous Improvement**: Adding more math problem set and category.
 
+
 ### Neurons Documentation
 - 📖 [Validator](docs/VALIDATOR.md)
 - 📖 [Miner](docs/MINER.md)
